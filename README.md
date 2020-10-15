@@ -1,6 +1,6 @@
 ## Firebase + React: Chat Application
-Basic chat application, letting you send, recieve messages through an authorized Google process. Showing your account photo and seeing the one you're talking with.
-This repo is to learn and start integrating a chat feature, tailorizing it to suit my both in functionality and look over on my [webpage][website]. 
+Basic chat application, letting you send and receive messages through an authorized Google login. Displaying the profilepicture of each member in the chat. 
+This repo is to learn and start integrating a chat feature, tailorizing it to suit my needs both in functionality and looks for later adding it over to my [webpage][website]. 
 
 ## Test with your own Firebase collection
 Steps: 
