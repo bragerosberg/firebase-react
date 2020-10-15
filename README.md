@@ -5,7 +5,7 @@ This repo is to learn and start integrating a chat feature, tailorizing it to su
 ## Test with your own Firebase collection
 Steps: 
 * Clone this repo & navigate to the ```src``` folder
-* Enter ```touch FIREBASE_CONFIG.js``` and paste your Firebase config here, end file with ```export default FIREBASE_CONFIG.js```
+* In the terminal, type ```touch FIREBASE_CONFIG.js``` and paste your Firebase config, end your new file with ```export default FIREBASE_CONFIG```
 * ```npm i "&&" npm start" ``` and you're all set on ```localhost:3000```
 
 **Want to try out the chat feature in production? Head over to my [website][website] and send me a message!**
